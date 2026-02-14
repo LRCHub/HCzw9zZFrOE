@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕たちに似合う世界",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T16:13:34.422869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕たちに似合う世界",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_僕たちに似合う世界_伊東歌詞太郎.txt"
+    }
+  ]
+}
